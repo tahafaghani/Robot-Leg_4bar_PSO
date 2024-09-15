@@ -2,6 +2,10 @@
 
 Creating the robot leg, optimizing with PSO algorithm for 4bar mechanism serves as power transmitter.
 
+<p align="center">
+  <img src="https://github.com/tahafaghani/Robot-Leg_4bar_PSO/blob/main/leg.gif" width="45%" alt="Leg"/>
+</p>
+
 This project involves the design, simulation, and optimization of a robotic leg, using SolidWorks for mechanical design and the Particle Swarm Optimization (PSO) algorithm for parameter optimization. The robot leg was 3D printed, assembled, and controlled via an Arduino board for both inverse kinematics and manual control. The project uses Python's `pyswarm` library for PSO and Arduino for controlling servos.
 
 ## Table of Contents
@@ -28,6 +32,11 @@ The robot leg was designed using SolidWorks, focusing on a four-bar linkage mech
 
 Once the design was completed, the components were 3D printed for further testing.
 
+<p align="center">
+  <img src="https://github.com/tahafaghani/Robot-Leg_4bar_PSO/blob/main/working%20model%202-D/jump_working_model2D.gif" width="45%" alt="Leg"/>
+</p>
+
+
 ## Optimization
 We used the Particle Swarm Optimization (PSO) algorithm to optimize the dimensions of the leg's components for better performance. The optimization focused on four key lengths (L1, L2, L3, L4) to enhance the leg's stability and range of motion.
 
@@ -42,6 +51,10 @@ The optimized lengths of the leg components were:
 
 ## 3D Printing
 After the design and optimization, the robot leg was 3D printed using Fused Deposition Modeling (FDM). The printed components were assembled and connected to servos for motion control.
+
+<p align="center">
+  <img src="" width="45%" alt="Leg"/>
+</p>
 
 ## Control System
 The leg is controlled using two methods:
@@ -62,6 +75,10 @@ The robot leg is controlled using an Arduino connected to servos. The `leg_movem
 - **Joystick** for manual control.
 - **Arduino board** for processing control signals.
 
+<p align="center">
+  <img src="https://github.com/tahafaghani/Robot-Leg_4bar_PSO/blob/main/Circuit.jpg" width="45%" alt="Leg"/>
+</p>
+
 ### Installation
 1. Clone this repository:
     ```bash
@@ -76,6 +93,10 @@ The robot leg is controlled using an Arduino connected to servos. The `leg_movem
    - Open `leg_movement.ino` in the Arduino IDE.
    - Connect your Arduino board and upload the code.
 
+<p align="center">
+  <img src="https://github.com/tahafaghani/Robot-Leg_4bar_PSO/blob/main/robot%20leg.jpg" width="45%" alt="Leg"/>
+</p>
+
 ## Usage
 - **Optimization**: Run the PSO optimization script in Python to find the best dimensions for the leg.
     ```bash
@@ -89,5 +110,3 @@ This project was developed by:
 - **Negar Asadi** – 3D Printing and Assembly
 - **Artin Mokhtariha** – Arduino Programming
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
