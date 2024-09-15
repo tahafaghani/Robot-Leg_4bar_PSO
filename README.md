@@ -106,7 +106,20 @@ The robot leg is controlled using an Arduino connected to servos. The `leg_movem
 
 ## Credits
 This project was developed by:
-- **Taha Faghani** – Design, Optimization, and Programming
+- **Taha Faghani** – Design, Optimization, and Programming(Python and Arduino).
 - **Negar Asadi** – 3D Printing and Assembly
-- **Artin Mokhtariha** – Arduino Programming
+- **Artin Mokhtariha** – Arduino Programming and setup installation.
+
+
+### Contributions
+Contributions are always welcome! If you'd like to improve the project or add new features:
+1. Fork this repository.
+2. Create a new branch for your feature or fix.
+3. Submit a pull request for review.
+
+### Contact
+If you have any questions or suggestions, feel free to reach out:
+
+- **Taha Faghani** - [taha.faghani.daroopi@gmail.com](mailto:taha.faghani.daroopi@gmail.com)
+- GitHub: [tahafaghani](https://github.com/tahafaghani)
 
