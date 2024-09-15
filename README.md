@@ -53,7 +53,7 @@ The optimized lengths of the leg components were:
 After the design and optimization, the robot leg was 3D printed using Fused Deposition Modeling (FDM). The printed components were assembled and connected to servos for motion control.
 
 <p align="center">
-  <img src="https://github.com/tahafaghani/Robot-Leg_4bar_PSO/blob/main/robot%20leg.jpg" width="45%" alt="Leg"/>
+  <img src="https://github.com/tahafaghani/Robot-Leg_4bar_PSO/blob/main/render.PNG" width="45%" alt="Leg"/>
 </p>
 
 ## Control System
