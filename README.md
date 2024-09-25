@@ -122,4 +122,5 @@ If you have any questions or suggestions, feel free to reach out:
 
 - **Taha Faghani** - [taha.faghani.daroopi@gmail.com](mailto:taha.faghani.daroopi@gmail.com)
 - GitHub: [tahafaghani](https://github.com/tahafaghani)
+- Linkedin Post: https://www.linkedin.com/feed/update/urn:li:activity:7241370302234931200/
 
